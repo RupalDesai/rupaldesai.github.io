@@ -3242,8 +3242,6 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-color: white;
-
-			/*background-color: lavenderblush;*/
 		}
 
 		.wrapper.style1-alt {
@@ -3251,8 +3249,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			/*background-color: ivory;*/
-			background-color: white;
+			background-color: rgba(0, 0, 0, 0.1);
 			color: black;
 			font-size: 16px;
 		}
@@ -3262,7 +3259,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: snow;
+			background-color: white;
   			color: black;
 		}
 
