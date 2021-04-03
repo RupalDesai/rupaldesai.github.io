@@ -26,7 +26,9 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-
+.floating{
+	float: right;
+}
 .custImg{
 	border-radius: 50%;
   }
@@ -264,7 +266,7 @@ input, select, textarea {
 		}
 
 	}
-
+	
 	sub {
 		font-size: 0.8em;
 		position: relative;
