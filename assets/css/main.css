@@ -1837,7 +1837,7 @@ input, select, textarea {
 		background-color: transparent;
 		border: solid 1px !important;
 		border-radius: 2em;
-		background: yellowgreen;
+		background: black;
 		color: #ffffff !important;
 		cursor: pointer;
 		display: inline-block;
@@ -3067,7 +3067,7 @@ input, select, textarea {
 			}
 
 		.spotlights > section:nth-child(2) {
-			background-color: rgba(0, 0, 0, 0.05);
+			/*background-color: rgba(0, 0, 0, 0.05);*/
 		}
 
 		.spotlights > section:nth-child(3) {
@@ -3251,7 +3251,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: rgba(0, 0, 0, 0.1);
+			background:#e3e3e3;
 			color: black;
 			font-size: 16px;
 		}
