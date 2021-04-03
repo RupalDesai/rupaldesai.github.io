@@ -26,9 +26,6 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-.floating{
-	float: right;
-}
 .custImg{
 	border-radius: 50%;
   }
